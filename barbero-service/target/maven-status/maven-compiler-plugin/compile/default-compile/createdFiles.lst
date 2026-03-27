@@ -1,0 +1,5 @@
+com\barberia\barbero\config\DataConfig.class
+com\barberia\barbero\model\Barbero.class
+com\barberia\barbero\BarberoApplication.class
+com\barberia\barbero\repository\BarberoRepository.class
+com\barberia\barbero\controller\BarberoController.class

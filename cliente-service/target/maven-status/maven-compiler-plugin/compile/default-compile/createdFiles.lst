@@ -1,0 +1,4 @@
+com\barberia\cliente\controller\ClienteController.class
+com\barberia\cliente\model\Cliente.class
+com\barberia\cliente\ClienteApplication.class
+com\barberia\cliente\repository\ClienteRepository.class
