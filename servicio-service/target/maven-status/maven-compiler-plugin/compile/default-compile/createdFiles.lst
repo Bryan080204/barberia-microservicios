@@ -1,0 +1,5 @@
+com\barberia\servicio\repository\ServicioRepository.class
+com\barberia\servicio\config\DataInitializer.class
+com\barberia\servicio\controller\ServicioController.class
+com\barberia\servicio\ServicioApplication.class
+com\barberia\servicio\model\Servicio.class

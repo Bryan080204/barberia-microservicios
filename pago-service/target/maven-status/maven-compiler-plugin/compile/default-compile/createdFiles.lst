@@ -1,0 +1,5 @@
+com\barberia\pago\controller\PagoController.class
+com\barberia\pago\PagoApplication.class
+com\barberia\pago\model\Pago.class
+com\barberia\pago\config\DataConfig.class
+com\barberia\pago\repository\PagoRepository.class
